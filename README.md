@@ -101,7 +101,7 @@ I make navigations and style it with some basic style sheet CSS.
                 <span>3</span>
                 <p class="heading"> Website Security</p>
                 <p class="details">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, ad repellat. Expedita
-                    iste suscipit atque pariatur illo, ad sit corrupti corporis distinctio eum? Iure eligendi, quam eum
+                    iste suscipit amtque pariatur illo, ad sit corrupti corporis distinctio eum? Iure eligendi, quam eum
                     vitae eos repellendus.</p>
                 <button>Read More</button> 
             </div>

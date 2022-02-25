@@ -76,7 +76,7 @@ I make navigations and style it with some basic style sheet CSS.
                 voluptatibus possimus rerum cumque ea reprehenderit.</p>
 
         </div>
-        <!-- box -->
+        **<!-- box -->**
         <div class="box-container">
             <!-- 1 ----------------->
             <div class="box-1">
@@ -108,7 +108,7 @@ I make navigations and style it with some basic style sheet CSS.
         </div>
     </div>
 
-    <!-- contact me -->
+   ** <!-- contact me -->**
     <div class="contact-me">
         <p>If you have any project in your mind</p>
         <button>Contact Me</button>

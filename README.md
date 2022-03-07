@@ -23,8 +23,8 @@ I make navigations and style it with some basic style sheet CSS.
 
             <ul>
                 <li><a href="#" class="active">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">About Me</a></li>
+                <li><a href="#">Contact Me</a></li>
                 <li><a href="#">Work</a></li>
             </ul>
         </nav>
